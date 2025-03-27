@@ -15,6 +15,7 @@ The “Amazon S3” buckets represent the buckets. These are the main folders in
 AWS Glue DataBrew is a tool used for preparing data. DataBrew is normally preferred because it has a visual interphase where users can easily conduct their data analysis on complex datasets. The main function of AWS Glue DataBrew is to clean and normalize data, preparing it for an analysis.
  <br> !(images/1.png) <br>
 <br> !(/images/1.png) <br>
+ https://github.com/Naveen-CP/My-Portfolio/blob/main/images/1.png
 Source: https://drive.google.com/file/d/1LcESLFIcRjCoWeF8RyF2KWsnHalWAjng/view?usp=sharing
 AWS Glue, as I understand it, is an ETL tool, used to transform data and transfer it to our preferred destination. AWS Glue is a separate tool from Glue DataBrew. ETL means Extract, Transform, Load.
 <h3>Step 1: Data Ingestion</h3>
