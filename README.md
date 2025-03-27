@@ -13,9 +13,9 @@ This task will have five major steps including data ingestion, data profiling, d
 What is the relationship between the major categories of expenditure in the capital budget? To identify the key sectors or areas receiving allocations and their respective proportions of the total budget. From Our draw.io diagram, we have our workflow and data plan. The figure represents the resources I utilize for this project to perform different functions:
 The “Amazon S3” buckets represent the buckets. These are the main folders in Amazon AWS where our data is stored. We can have one Amazon S3 instance but have different folders and store data files within these folders. The data can then be accessed from different points and tools within Amazon to perform different functions.
 AWS Glue DataBrew is a tool used for preparing data. DataBrew is normally preferred because it has a visual interphase where users can easily conduct their data analysis on complex datasets. The main function of AWS Glue DataBrew is to clean and normalize data, preparing it for an analysis.
- <br> !(images/1.png) <br>
-<br> !(/images/1.png) <br>
- https://github.com/Naveen-CP/My-Portfolio/blob/main/images/1.png
+
+<br>![Alt text](images/1.png)<br>
+
 Source: https://drive.google.com/file/d/1LcESLFIcRjCoWeF8RyF2KWsnHalWAjng/view?usp=sharing
 AWS Glue, as I understand it, is an ETL tool, used to transform data and transfer it to our preferred destination. AWS Glue is a separate tool from Glue DataBrew. ETL means Extract, Transform, Load.
 <h3>Step 1: Data Ingestion</h3>
