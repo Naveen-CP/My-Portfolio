@@ -99,7 +99,7 @@ o	Highlight patterns and inconsistencies in allocation practices.
 •	Actionable recommendations for management, focusing on strategies to address identified issues and improve sales performance.
 •	maintain a clear separation between raw and transformed datasets. 
 
-<h3>Step 3: Data Profiling<h3>
+<h3>Step 3: Data Profiling</h3>
 To understand my dataset and decide what type of data preparation steps I might want to run, I conducted a data profiling operation. This was done using the default DataBrew settings. I created an AWS DataBrew project named "vancouverdap-profile” and linked it to the raw dataset I created in the beginning (See Figure 4). It is this data that will be cleaned using different data cleaning jobs and data profiles to have the final data for our analysis.
  
  
